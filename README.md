@@ -1,5 +1,25 @@
 # Nefertem Gamification
 
+<p align="center">
+<img src="./img/avatar.png" height="150">
+</p>
+<h1 align="center">
+Nefertem Gamification
+</h1>
+<p align="center">
+Transformando Engajamento em Jogo, Desbloqueando Potencial com Web3.
+<p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/nefertem"><img src="https://img.shields.io/npm/v/mermaid?color=ff3670&label="></a>
+<p>
+
+<p align="center">
+ <a href="https://nefertem-gamification.xyz">📖 Documentation</a> | <a href="https://nefertem-gamification.xyz/intro/">🚀 Getting Started</a> | <a href="https://www.jsdelivr.com/package/npm/mermaid">🌐 CDN</a> | <a href="https://join.slack.com/t/mermaid-talk/shared_invite/enQtNzc4NDIyNzk4OTAyLWVhYjQxOTI2OTg4YmE1ZmJkY2Y4MTU3ODliYmIwOTY3NDJlYjA0YjIyZTdkMDMyZTUwOGI0NjEzYmEwODcwOTE" title="Slack invite">🙌 Join Us</a>
+</p>
+
+<br>
+<br>
+
 ## Introdução
 
 Nefertem Gamification é um módulo independente para gamificação construído sobre a tecnologia Web3. Ele é projetado para ser facilmente integrado a qualquer aplicação, permitindo que desenvolvedores adicionem elementos de gamificação de forma rápida e eficiente.
