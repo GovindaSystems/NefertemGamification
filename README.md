@@ -1,5 +1,3 @@
-# Nefertem Gamification
-
 <p align="center">
 <img src="./img/avatar.png" height="150">
 </p>
